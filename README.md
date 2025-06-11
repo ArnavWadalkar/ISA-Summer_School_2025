@@ -28,7 +28,7 @@ We'll also be using **SAOImage DS9** to visualize astronomical images and FITS f
 ## 🚀 Get Ready!
 Please ensure everything is working before the sessions begin. If you run into any issues during installation, feel free to reach out to the organizers for help.
 
-Contact the instructor (Aniket Prasad) if needed: [LinkedIN](https://www.linkedin.com/in/aniketprasad40/)
+Contact the instructor (Aniket Prasad) if needed, via [LinkedIN](https://www.linkedin.com/in/aniketprasad40/) or Satyapriya Das via [LinkedIN](https://www.linkedin.com/in/satyapriya-das-74209920a/) 
 
 Happy learning! 🌠
 
